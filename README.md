@@ -1,6 +1,6 @@
 # direct-mail
 
-Develop machine learning model to improve the cost-effectiveness of direct marketing campaigns
+Develop machine learning model to improve the cost-effectiveness of direct marketing campaigns from 3984 training observations, 2018 validation observations, and 2007 test observations using 29 attributes.
 
 Model type: Combination of Classification and Regression models
 
